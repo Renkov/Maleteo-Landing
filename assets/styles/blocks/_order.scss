@@ -1,0 +1,5 @@
+.order {
+    @media only screen and (max-width: $breakpoint-md) {
+    flex-direction: column-reverse;
+    }
+}

@@ -1,0 +1,22 @@
+.btn {
+  border: none;
+}
+.btn2 {
+  width:100%;
+  text-align:center;
+}
+.btn-primary {
+  background: $primary2;  
+  color: $gradient-1-h;
+  width:90%;
+
+  &:hover {
+    background: $primary2;
+  }
+}
+
+.btn-lg {
+  border-radius: 4px;
+  font-size: 1.25em;
+  padding: .5em 1em;
+} 
